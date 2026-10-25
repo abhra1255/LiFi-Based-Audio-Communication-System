@@ -1,0 +1,6 @@
+{
+  "name": "PhotonAudio - Laser Communicator & Li-Fi Circuit Simulator",
+  "description": "Interactive optical audio communication laboratory simulating free-space laser transmission, LM7805L power regulation, PAM8403 Class-D modulation, beam alignment physics, solar photovoltaic reception, and dual oscilloscopes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
